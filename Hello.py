@@ -1,2 +1,2 @@
 print("how is your day?")
-is it...
+is it today?
